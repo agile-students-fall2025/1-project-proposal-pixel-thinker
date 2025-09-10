@@ -27,4 +27,4 @@ The front-end and back-end is feasible for a team of 4-6 programmers. Only risks
 2. Storing user data and executing personalized results.
 3. Introducing a way to promote user engagement.
 
-This project should be feasibly for a team of 6 depending on how they plan their MVP. Taking inspirtation off of the original Engage page is also an option, rather than restarting a brand new application. 
+This project should be feasible for a team of 6 depending on how they plan their MVP. Taking inspiration off of the original Engage page is also an option, rather than restarting a brand new application. 
